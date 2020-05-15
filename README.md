@@ -2,6 +2,12 @@
 
 Demo app made to learn Angular.
 
+Learned in this project (non-exhaustive list) :
+- components (and communicating between parent & child)
+- css scoping
+- ngFor
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 ## Development server
